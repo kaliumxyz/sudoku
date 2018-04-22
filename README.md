@@ -1,2 +1,4 @@
 # sudoku
-unfinished sudoku thingy.
+> Fully operational sudoku solver.
+
+Todo: GUI, user input
